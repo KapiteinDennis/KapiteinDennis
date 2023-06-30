@@ -15,10 +15,12 @@
     <strong>[‌•]</strong> JavaScript
     <br>
     <strong>[‌•]</strong> Java
+    <br>
+    <strong>[‌•]</strong> Learning PHP
 </p>
   
 <h2 align="center">PixerialCode</h2>
 <p align="center">
-    <img style="height: 200px; height: 200px;" src="https://pixerialcode.com/scripts/images/logo/pc-logo-900x900-color.png">
+    <img style="height: 200px; height: 200px;" src="[https://pixerialcode.com/scripts/images/logo/pc-logo-900x900-color.png](https://pixerialcode.com/wp-content/uploads/2022/12/pc-logo-900x900-color-1-150x150.png)https://pixerialcode.com/wp-content/uploads/2022/12/pc-logo-900x900-color-1-150x150.png">
    <br />
 </p>
