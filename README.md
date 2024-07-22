@@ -1,8 +1,7 @@
 <h2>Hey i'm Dennis,</h2>
 
 <p>
-    At the moment I am learning different programming languages such as JavaScript and CSS.
-    I also learned the programming language Java myself, i am also satisfied if a program runs smoothly and there are no errors.
+    At the moment I am learning different programming languages such as HTML CSS PHP and JavaScript.
     <br>
     There is always time to make things smoother and faster and to learn things.
 </p>
