@@ -20,6 +20,6 @@
   
 <h2 align="center">PixerialCode</h2>
 <p align="center">
-    <img dragable="false" style="height: 200px; height: 200px;" src="https://pixerialcode.com/wp-content/uploads/2022/12/pc-logo-900x900-color-1-150x150.png">
-   <br />
+    <img href="https://pixerialcode.com/" dragable="false" style="height: 200px; height: 200px;" src="https://pixerialcode.com/wp-content/uploads/2022/12/pc-logo-900x900-color-1-150x150.png">
+   <br/>
 </p>
