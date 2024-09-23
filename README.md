@@ -3,7 +3,8 @@
 <p>
     At the moment I am learning different programming languages such as HTML CSS PHP and JavaScript.
     <br>
-    There is always time to make things smoother and faster and to learn things.
+    I'm always trying to look at the possibilities, there are no limits in terms of programming.
+    There is always time to learn new things and optimize code.
 </p>
 
 <p>
