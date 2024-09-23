@@ -24,7 +24,7 @@
 <h2 align="center">PixerialCode</h2>
 <p align="center">
     <a href="https://pixerialcode.com/"></a>
-    <h4>My current projects are:</h4>h4>
+    <h4>My current projects are:</h4>
 <p>
     <strong>[‌•]</strong> HMC-Core
     <br>
